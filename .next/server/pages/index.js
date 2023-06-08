@@ -293,7 +293,7 @@ const Breadcrumbs = ()=>{
             /*#__PURE__*/ jsx_runtime_.jsx("a", {
                 href: "https://quickgold.es/casa-cambio-santander/",
                 title: "Ir a casa cambio santander",
-                children: "Casa Cambio santander"
+                children: "Casa Cambio Santander"
             })
         ]
     });
